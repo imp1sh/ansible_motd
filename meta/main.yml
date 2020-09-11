@@ -1,0 +1,25 @@
+galaxy_info:
+  role_name: motd
+  author: imp1sh
+  description: Sets the message of the day for login screen.
+  license: license (BSD, MIT)
+  min_ansible_version: 2.0
+  platforms:
+  - name: Alpine
+    version:
+      - all
+  - name: FreeBSD
+    version:
+      - all
+  - name: RedHat
+    version:
+      - all
+  - name: Debian
+    version:
+      - all
+
+  galaxy_tags:
+  - motd
+  - login
+
+dependencies: []
