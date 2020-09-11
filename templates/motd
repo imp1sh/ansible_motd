@@ -1,4 +1,4 @@
-{% if motd_ascii == 'nftwall' %}
+{% if motd_ascii is defined and motd_ascii == 'nftwall' %}
           ______                 ____
    ____  / __/ /__      ______ _/ / /
   / __ \/ /_/ __/ | /| / / __ `/ / / 
