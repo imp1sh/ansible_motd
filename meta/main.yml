@@ -13,7 +13,10 @@ galaxy_info:
       - all
   - name: RedHat
     version:
-      - all
+      - 5
+      - 6
+      - 7
+      - 8
   - name: Debian
     version:
       - all
