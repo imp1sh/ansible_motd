@@ -5,6 +5,8 @@ Example of motd variables making use of this role:
 ```
 motd_purpose: "demo alpine system"
 motd_site: "Information about the site. This is usually being defined with group_vars instead of host_vars."
+```
+Example of how a typcial motd might look like.
        ___            _ __   __   
       / _ | ___  ___ (_) /  / /__ 
      / __ |/ _ \(_-</ / _ \/ / -_)
